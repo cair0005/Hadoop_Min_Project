@@ -1,1 +1,1 @@
-# Hadoop_Min_Project
+Count the number of postive, negative and netural words in some text files
